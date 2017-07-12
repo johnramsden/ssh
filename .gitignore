@@ -1,9 +1,0 @@
-keys/*
-!ssh/config
-linphonerc.tmp
-private-keys*
-.directory
-
-id_ssh
-
-id_ssh\.pub
