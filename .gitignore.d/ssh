@@ -2,4 +2,7 @@
 !/.gitignore.d
 !/.gitignore.d/ssh
 !/.ssh
+!/.ssh/archive
+!/.ssh/archive/july-14-2017.tar.gpg
+!/.ssh/archive/july-14-2017.tar.sha256sum
 !/.ssh/config
