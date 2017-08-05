@@ -3,8 +3,13 @@
 !/.gitignore.d/ssh
 !/.ssh
 !/.ssh/archive
-!/.ssh/archive/july-14-2017.tar.gpg
-!/.ssh/archive/july-14-2017.tar.sha256sum
+!/.ssh/archive/atom-july-17-2017.tar.gpg
+!/.ssh/archive/atom-july-17-2017.tar.sha256sum
+!/.ssh/archive/README.md
+!/.ssh/archive/switchblade-july-14-2017.tar.gpg
+!/.ssh/archive/switchblade-july-14-2017.tar.sha256sum
+!/.ssh/archive/switchblade-july-15-2017.tar.gpg
+!/.ssh/archive/switchblade-july-15-2017.tar.sha256sum
 !/.ssh/config
 !/.ssh/id_ssh
 !/.ssh/id_ssh.pub
