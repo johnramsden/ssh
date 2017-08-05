@@ -6,3 +6,5 @@
 !/.ssh/archive/july-14-2017.tar.gpg
 !/.ssh/archive/july-14-2017.tar.sha256sum
 !/.ssh/config
+!/.ssh/id_ssh
+!/.ssh/id_ssh.pub
