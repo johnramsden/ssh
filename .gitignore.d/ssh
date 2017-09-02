@@ -3,10 +3,6 @@
 !/.gitignore.d/ssh
 !/.ssh
 !/.ssh/archive
-!/.ssh/archive/july-14-2017.tar.gpg
-!/.ssh/archive/july-14-2017.tar.sha256sum
-!/.ssh/archive/july-15-2017.tar.gpg
-!/.ssh/archive/july-15-2017.tar.sha256sum
 !/.ssh/archive/README.md
 !/.ssh/archive/switchblade-july-14-2017.tar.gpg
 !/.ssh/archive/switchblade-july-14-2017.tar.sha256sum
