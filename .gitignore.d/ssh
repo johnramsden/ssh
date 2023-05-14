@@ -1,7 +1,0 @@
-*
-!/.gitignore.d
-!/.gitignore.d/ssh
-!/.ssh
-!/.ssh/config
-!/.ssh/id_ssh
-!/.ssh/id_ssh.pub
